@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "31dff7bb-2c88-4df5-be98-5b49da92ac5a",
+    "content-length": "162",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a body of water with text overlay",
+      "confidence": 0.7888897657394409
+    },
+    "metadata": {
+      "width": 1920,
+      "height": 1080
+    }
+  }
